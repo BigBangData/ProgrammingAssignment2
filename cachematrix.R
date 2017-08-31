@@ -1,7 +1,7 @@
 ## the two functions below create a special object that stores a
 ## numeric matrix and caches its inverse
 
-## the makeVector function creates a special list containing a function to:
+## the makeCacheMatrix function creates a special list containing a function to:
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix 
 ## 3. set the value of the inverse of the matrix
